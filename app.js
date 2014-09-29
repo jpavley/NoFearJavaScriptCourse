@@ -2,6 +2,6 @@
 // No Fear JavaScript
 // @jpavley
 
-var message = "Welcome to No Fear JavaScript";
-console.log(message);
+console.log("Welcome to No Fear JavaScript");
+console.log("If you can read this you are ready to start!");
 
