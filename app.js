@@ -2,8 +2,6 @@
 // No Fear JavaScript
 // @jpavley
 
-var realBird = { name: "Blue Jay", song: "Tweet" };
-var fakeBird = { name: "Mocking Jay", song: "La" };
+var message = "Welcome to No Fear JavaScript";
+console.log(message);
 
-console.log(realBird);
-console.log(fakeBird);
